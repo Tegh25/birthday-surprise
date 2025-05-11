@@ -1,11 +1,11 @@
 # Birthday Surprise
 
-This is just a quick and fun used to surprise people for their birthday. Why are you looking at the code, go enjoy the day!
+This is just a quick and fun project used to surprise people for their special day, even if not a birthday. Why are you looking at the code, go enjoy the day!
 
-## Current B-Day
+## Current Occasion
 
-Happy 22nd Birthday to **Rehan**!
+Happy Mother's Day 2025 to **Vik**!
 
-*April 16, 2025*
+*May 11, 2025*
 
 ---
